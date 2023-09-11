@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">trial4</string>
+    <string name="upload_images">upload images</string>
+    <string name="confidences">confidences</string>
+</resources>
